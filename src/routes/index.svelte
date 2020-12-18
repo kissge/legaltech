@@ -100,7 +100,7 @@
 {#if dialog}
   <nav transition:fade>
     <p>日本の法令を解析して、「Aは、B。」という形の条文を適当に集め、適当につなぎかえました。</p>
-    <p class="right"><a href="https://twitter.com/p_km">私が作りました <img src="me.svg" /></a></p>
+    <p class="right"><a href="https://twitter.com/p_km">私が作りました <img src="me.svg" alt="私" /></a></p>
     <p><a href="https://github.com/kissge/legaltech">source</a></p>
     <button on:click={() => (dialog = !dialog)}>とじる</button>
   </nav>
