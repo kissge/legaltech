@@ -2,7 +2,7 @@
   "background_color": "#ffffff",
   "theme_color": "#333333",
   "name": "ない法律",
-  "short_name": "ない法律がでます　いっぱいでます",
-  "display": "minimal-ui",
-  "start_url": "/"
+  "short_name": "ない法律",
+  "display": "standalone",
+  "start_url": "/legaltech"
 }
