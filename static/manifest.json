@@ -4,5 +4,17 @@
   "name": "ない法律",
   "short_name": "ない法律",
   "display": "standalone",
-  "start_url": "/legaltech"
+  "start_url": "/legaltech/",
+  "icons": [
+    {
+      "src": "https://kissge.github.io/shared/me-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://kissge.github.io/shared/me-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
 }
