@@ -4,6 +4,7 @@
   "name": "ない法律",
   "short_name": "ない法律",
   "display": "standalone",
+  "scope": "/legaltech",
   "start_url": "/legaltech",
   "icons": [
     {
